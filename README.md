@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **AccompanyZiHao/AccompanyZihao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+##### HI~ 我是吴小白！
+
+很高兴你能关注我，这里是我日常写博客，以及平时自己搞的一些有意思的小项目自己玩的地方。
+
+
