@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 [![baicai's GitHub stats](https://github-readme-stats.vercel.app/api?username=AccompanyZiHao&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AccompanyZiHao&layout=compact](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AccompanyZiHao&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
