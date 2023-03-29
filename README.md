@@ -21,3 +21,5 @@ Here are some ideas to get you started:
 白菜的小网站： https://wuxiaobai.cn
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AccompayZiHao&count_private=true&theme=dark)(https://github.com/anuraghazra/github-readme-stats)
+333
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
