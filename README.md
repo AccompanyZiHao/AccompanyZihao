@@ -20,3 +20,4 @@ Here are some ideas to get you started:
 
 白菜的小网站： https://wuxiaobai.cn
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AccompayZiHao)](https://github.com/anuraghazra/github-readme-stats)
