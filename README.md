@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 很高兴你能关注我，这里是我日常写博客，以及平时自己搞的一些有意思的小项目自己玩的地方。
 
-白菜的小网站： https://wuxiaobai.cn
+白菜的小网站： ~~https://wuxiaobai.cn~~(服务器到期了，暂不可用)
 
 [![baicai's GitHub stats](https://github-readme-stats.vercel.app/api?username=AccompanyZiHao&count_private=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
 
